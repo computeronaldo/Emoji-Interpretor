@@ -16,6 +16,10 @@
     list-style: none;
 }
 
+ul {
+    padding-inline-start: 0px;
+}
+
 li {
     display: inline-block;
     margin: 0 1rem;
